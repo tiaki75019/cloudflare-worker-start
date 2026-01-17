@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "bold-cherry-3f8e",
+	"name": "cloudflare-worker-start",
 	"main": "src/entry.py",
 	"compatibility_date": "2025-09-27",
 	"compatibility_flags": [
